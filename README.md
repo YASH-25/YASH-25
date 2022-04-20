@@ -47,8 +47,8 @@ Currently, I am doing my Master's in Computer Applications (MCA) at CHRIST (Deem
 <h3> 💁‍♂️  &nbsp;Some Stats for nerds:-</h3>
 
 <a href="https://github.com/YASH-25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardbdas&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardbdas&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YASH-25&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASH-25&theme=buefy&layout=compact" />
 </a>
 
 <br/>
