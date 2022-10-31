@@ -56,7 +56,7 @@ Currently, I am doing my Master's in Computer Applications (MCA) at CHRIST (Deem
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<!--<a href="https://www.twitter.com/bernardbdas"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-BernardBDas-blue?style=flat-square&logo=twitter"></a>-->
+<!--<a href="https://www.twitter.com/YashPat87597348"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-YashPat87597348-blue?style=flat-square&logo=twitter"></a>-->
 <a href="https://www.linkedin.com/in/yashpathak25/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yash%20Umeshchandra%20Pathak-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/_.yash_pathak_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_.yash_pathak_-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:yash.pathak@mca.christuniversity.in"><img alt="Email" src="https://img.shields.io/badge/Email-yash.pathak@mca.christuniversity.in-blue?style=flat-square&logo=gmail"></a>
